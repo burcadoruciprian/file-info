@@ -2,6 +2,7 @@
   "name": "winfileinfo",
   "version": "1.0.0",
   "description": "Node module for reading file verison information on Windows",
+  "main": "winfileinfo.node",
   "keywords": [
     "file",
     "info",
