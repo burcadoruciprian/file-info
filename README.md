@@ -14,6 +14,6 @@ npm install winfileinfo
 ## Usage 
 
 ```js
-const fileInfo = require('path/winfileinfo.node');
-console.log(fileInfo.GetFileVersion('path_to_file'));
+const fileInfo = require('winfileinfo/winfileinfo.node');
+console.log(fileInfo.getFileVersion('path_to_file'));
 ```
